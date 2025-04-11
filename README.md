@@ -136,7 +136,7 @@ MIT License - feel free to use in personal and commercial projects.
 
 ## 📬 Contact
 
-Have questions or feedback? Reach out to us at webdeveloper.srinu9@gmail.com or visit our contact page.
+Have questions or feedback? Reach out to us at webdeveloper.srinu9@gmail.com or visit our https://mokshit-ui.vercel.app/ web page.
 
 ---
 
