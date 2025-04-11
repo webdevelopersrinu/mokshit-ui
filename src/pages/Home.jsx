@@ -311,7 +311,7 @@ const Home = () => {
                         <p className="text-lg text-blue-100 mb-8">
                             Stop reinventing the wheel. Start with Mokshith UI components and focus on what matters most—your application logic.
                         </p>
-                        <a href="https://github.com/mokshith-ui" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/webdevelopersrinu/mokshit-ui" target="_blank" rel="noopener noreferrer">
                             <button className="px-6 py-3 bg-white text-blue-600 font-medium rounded-md hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-white focus:ring-offset-blue-600 transition-colors">
                                 Get Started Now
                             </button>
