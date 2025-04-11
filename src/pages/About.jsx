@@ -173,7 +173,7 @@ const About = () => {
                                 </button>
                             </Link>
                             <a
-                                href="https://github.com/mokshith-ui"
+                                href="https://github.com/webdevelopersrinu/mokshit-ui"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="px-6 py-3 bg-transparent border border-white text-white font-medium rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-white focus:ring-offset-blue-600 transition-colors"
